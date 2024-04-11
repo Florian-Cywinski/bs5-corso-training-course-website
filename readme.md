@@ -2,6 +2,8 @@
 
 Bootstrap website for training courses, workshops, seminars, etc - It has a mixed design with both light and dark colors and a modern look - From Brad Traversy's 'Bootstrap 5 From Scratch | Build 5 Modern Websites' course
 
+Try out the app :) - on Netlify: https://bs5-corso-training-course-website-fc.netlify.app/ - on Vercel: https://bs5-corso-training-course-website.vercel.app/
+
 <img src="./images/screen.png" />
 
 ## Features
